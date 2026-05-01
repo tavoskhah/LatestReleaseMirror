@@ -2,4 +2,7 @@
 masterking32/MasterDnsVPN|Client_MacOS_AMD64.zip
 therealaleph/MasterHttpRelayVPN-RUST|windows-amd64.zip
 
+# 1. No filter – keep all assets from the release
+therealaleph/MasterHttpRelayVPN-RUST
+
 
