@@ -1,6 +1,13 @@
 # NullLatency/FlowDriver
 masterking32/MasterDnsVPN|Client_MacOS_AMD64.zip
 therealaleph/MasterHttpRelayVPN-RUST|windows-amd64.zip
+therealaleph/MasterHttpRelayVPN-RUST|android-arm64-v8a-v1.9.7.apk
+therealaleph/MasterHttpRelayVPN-RUST|android-armeabi-v7a-v1.9.7.apk
+therealaleph/MasterHttpRelayVPN-RUST|android-universal-v1.9.7.apk
+
+
+
+
 
 # 1. No filter – keep all assets from the release
 therealaleph/MasterHttpRelayVPN-RUST
