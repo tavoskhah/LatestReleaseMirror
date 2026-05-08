@@ -157,6 +157,23 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="happ-proxy--happ-desktop"></div>
+
+### Happ-proxy--happ-desktop
+
+🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>2.14.0</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/2.14.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `Happ.linux.arm64.deb` | 67.7 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.arm64.deb) |
+| `Happ.linux.arm64.pkg.tar.zst` | 67.2 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.arm64.pkg.tar.zst) |
+| `Happ.linux.arm64.rpm` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.arm64.rpm) |
+| `Happ.linux.x64.deb` | 72.0 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.x64.deb) |
+| `Happ.linux.x64.pkg.tar.zst` | 71.2 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.x64.pkg.tar.zst) |
+| `Happ.linux.x64.rpm` | 94.9 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.x64.rpm) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
