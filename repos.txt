@@ -18,3 +18,4 @@ therealaleph/MasterHttpRelayVPN-RUST
 
 # 5. Disable a line by commenting it with #
 # masterking32/MasterDnsVPN|Client_MacOS_AMD64.zip|Client_Windows_AMD64.zip
+Happ-proxy/happ-desktop
