@@ -157,23 +157,6 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="happ-proxy--happ-desktop"></div>
-
-### Happ-proxy--happ-desktop
-
-🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>2.14.0</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/2.14.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `Happ.linux.arm64.deb` | 67.7 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.arm64.deb) |
-| `Happ.linux.arm64.pkg.tar.zst` | 67.2 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.arm64.pkg.tar.zst) |
-| `Happ.linux.arm64.rpm` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.arm64.rpm) |
-| `Happ.linux.x64.deb` | 72.0 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.x64.deb) |
-| `Happ.linux.x64.pkg.tar.zst` | 71.2 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.x64.pkg.tar.zst) |
-| `Happ.linux.x64.rpm` | 94.9 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/Happ.linux.x64.rpm) |
-
----
-
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
@@ -198,4 +181,22 @@ sha256sum FILE_NAME
 | `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
 | `mhrv-rs-raspbian-armhf.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
 | `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+
+---
+
+<div id="xxnuo--dns-benchmark"></div>
+
+### xxnuo--dns-benchmark
+
+🔗 [source](https://github.com/xxnuo/dns-benchmark) – [<code><small>v2.0.2</small></code>](https://github.com/xxnuo/dns-benchmark/releases/tag/v2.0.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `checksums.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/xxnuo/dns-benchmark/checksums.txt) |
+| `dnspy-darwin-amd64` | 37.1 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/xxnuo/dns-benchmark/dnspy-darwin-amd64) |
+| `dnspy-darwin-arm64` | 36.3 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/xxnuo/dns-benchmark/dnspy-darwin-arm64) |
+| `dnspy-linux-amd64` | 36.8 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/xxnuo/dns-benchmark/dnspy-linux-amd64) |
+| `dnspy-linux-arm64` | 35.6 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/xxnuo/dns-benchmark/dnspy-linux-arm64) |
+| `dnspy-windows-amd64.exe` | 37.2 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/xxnuo/dns-benchmark/dnspy-windows-amd64.exe) |
+| `dnspy-windows-arm64.exe` | 35.6 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/xxnuo/dns-benchmark/dnspy-windows-arm64.exe) |
 <!-- RELEASES_END -->
