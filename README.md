@@ -157,30 +157,88 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="flowseal--tg-ws-proxy"></div>
+
+### Flowseal--tg-ws-proxy
+
+🔗 [source](https://github.com/Flowseal/tg-ws-proxy) – [<code><small>v1.7.0</small></code>](https://github.com/Flowseal/tg-ws-proxy/releases/tag/v1.7.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `TgWsProxy_linux_amd64` | 42.0 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Flowseal/tg-ws-proxy/TgWsProxy_linux_amd64) |
+| `TgWsProxy_linux_amd64.deb` | 39.2 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Flowseal/tg-ws-proxy/TgWsProxy_linux_amd64.deb) |
+| `TgWsProxy_linux_amd64.rpm` | 40.0 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Flowseal/tg-ws-proxy/TgWsProxy_linux_amd64.rpm) |
+| `TgWsProxy_macos_universal.dmg` | 39.5 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Flowseal/tg-ws-proxy/TgWsProxy_macos_universal.dmg) |
+| `TgWsProxy_windows.exe` | 19.9 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Flowseal/tg-ws-proxy/TgWsProxy_windows.exe) |
+| `TgWsProxy_windows_7_32bit.exe` | 13.8 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Flowseal/tg-ws-proxy/TgWsProxy_windows_7_32bit.exe) |
+| `TgWsProxy_windows_7_64bit.exe` | 16.4 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/Flowseal/tg-ws-proxy/TgWsProxy_windows_7_64bit.exe) |
+
+---
+
+<div id="incy-dev--incy-platforms"></div>
+
+### INCY-DEV--incy-platforms
+
+🔗 [source](https://github.com/INCY-DEV/incy-platforms) – [<code><small>desktop-v3.1.3</small></code>](https://github.com/INCY-DEV/incy-platforms/releases/tag/desktop-v3.1.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `Incy.apk` | 50.2 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/INCY-DEV/incy-platforms/Incy.apk) |
+
+---
+
+<div id="qr243vbi--nekobox"></div>
+
+### qr243vbi--nekobox
+
+🔗 [source](https://github.com/qr243vbi/nekobox) – [<code><small>5.11.15</small></code>](https://github.com/qr243vbi/nekobox/releases/tag/5.11.15)
+
+| File | Size | Download |
+|------|------|----------|
+| `nekobox-5.11.15-aarch64-linux.AppImage` | 51.5 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.15-aarch64-linux.AppImage) |
+| `nekobox-5.11.15-armhf-linux.AppImage` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.15-armhf-linux.AppImage) |
+| `nekobox-5.11.15-i686-linux.AppImage` | 51.6 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.15-i686-linux.AppImage) |
+| `nekobox-5.11.15-linux-386.tar.gz` | 57.1 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.15-linux-386.tar.gz) |
+| `nekobox-5.11.15-linux-amd64.tar.gz` | 59.2 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.15-linux-amd64.tar.gz) |
+| `nekobox-5.11.15-linux-arm.tar.gz` | 50.9 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.15-linux-arm.tar.gz) |
+| `nekobox-5.11.15-linux-arm64.tar.gz` | 57.2 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.15-linux-arm64.tar.gz) |
+| `nekobox-5.11.15-windows-arm64-installer.exe` | 43.8 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.15-windows-arm64-installer.exe) |
+| `nekobox-5.11.15-windows-arm64.zip` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.15-windows-arm64.zip) |
+| `nekobox-5.11.15-windows32-installer.exe` | 37.1 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.15-windows32-installer.exe) |
+| `nekobox-5.11.15-windows32.zip` | 36.8 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.15-windows32.zip) |
+| `nekobox-5.11.15-windows64-installer.exe` | 47.3 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.15-windows64-installer.exe) |
+| `nekobox-5.11.15-windows64.zip` | 47.0 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.15-windows64.zip) |
+| `nekobox-5.11.15-x86_64-linux.AppImage` | 53.5 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.15-x86_64-linux.AppImage) |
+| `nekobox-unified-source-5.11.15.tar.xz` | 10.8 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-unified-source-5.11.15.tar.xz) |
+| `nekobox-unified-source-5.11.15.tar.xz.sha256sum` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-unified-source-5.11.15.tar.xz.sha256sum) |
+| `nekobox.5.11.15.nupkg` | 4 KB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox.5.11.15.nupkg) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.18</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.18)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.28</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.28)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.18.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.18.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.18.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.18.apk) |
-| `mhrv-rs-android-universal-v1.9.18.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.18.apk) |
-| `mhrv-rs-android-x86-v1.9.18.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.18.apk) |
-| `mhrv-rs-android-x86_64-v1.9.18.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.18.apk) |
-| `mhrv-rs-linux-amd64.tar.gz` | 9.8 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
+| `mhrv-rs-android-arm64-v8a-v1.9.28.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.28.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.28.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.28.apk) |
+| `mhrv-rs-android-universal-v1.9.28.apk` | 41.4 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.28.apk) |
+| `mhrv-rs-android-x86-v1.9.28.apk` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.28.apk) |
+| `mhrv-rs-android-x86_64-v1.9.28.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.28.apk) |
+| `mhrv-rs-linux-amd64.tar.gz` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
 | `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
 | `mhrv-rs-linux-musl-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
 | `mhrv-rs-macos-amd64-app.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
-| `mhrv-rs-macos-amd64.tar.gz` | 7.2 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
+| `mhrv-rs-macos-amd64.tar.gz` | 7.1 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
 | `mhrv-rs-macos-arm64-app.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
-| `mhrv-rs-macos-arm64.tar.gz` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
-| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
+| `mhrv-rs-macos-arm64.tar.gz` | 6.5 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
+| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
 | `mhrv-rs-raspbian-armhf.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
-| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `mhrv-rs-windows-amd64.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/tavoskhah/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 
 ---
 
